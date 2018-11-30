@@ -8,7 +8,7 @@
 
   
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans">
-    <title>Vizag Zone Selection | CitizenHack</title>
+    <title>Vizag Zone Selection | CitizenHack 2018</title>
   
   <form align="center" bgcolor="#232527" marginheight="0" style="margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0; width: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;" offset="0" topmargin="0" leftmargin="0" margin="0">
     <table border="0" width="100%" align="center" cellpadding="0" cellspacing="0" bgcolor="#232527">
